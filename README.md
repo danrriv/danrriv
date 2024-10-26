@@ -4,11 +4,11 @@ Hola, soy Daniel Rodriguez!
 </h1>
 <br/>
 <pre>
-- 💻 Soy desarrollador web fullstack, en constante aprendizaje 🧐
-- 📚 Soy graduado en Desarrollo de Sistemas de Información en IDAT
-- 🌱 Actualmente estoy aprendiendo Astro 🚀 y PostgreSQL 🐘
-- 🌟 Mis lenguajes principales son: Java y TypeScript
-- 🚩 Tengo especial interés en el desarrollo backend y creación de APIs RestFul
+💻 Soy desarrollador web fullstack, en constante aprendizaje 🧐
+📚 Soy graduado en Desarrollo de Sistemas de Información en IDAT
+🌱 Actualmente estoy aprendiendo Astro 🚀 y PostgreSQL 🐘
+🌟 Mis lenguajes principales son: Java y TypeScript
+🚩 Tengo especial interés en el desarrollo backend y creación de APIs RestFul
   <!--
 🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
   --->
