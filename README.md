@@ -17,7 +17,7 @@ Hola, soy Daniel Rodriguez!
 
 ## 🛠️ Mis conocimientos
 
-### 👨‍💻 Lenguajes de programación
+### Lenguajes de programación
 
 <p>
     <img alt="Java" src="https://img.shields.io/badge/Java%20-red.svg?logo=java&logoColor=red">
@@ -25,7 +25,7 @@ Hola, soy Daniel Rodriguez!
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%2314354C.svg?logo=typeScript&logoColor=blue">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
 
-### 🧰 Frameworks y Bibliotecas
+### Frameworks y Bibliotecas
 
 <p>
     <img alt="Spring" src="https://img.shields.io/badge/Spring%20Boot%20-%2334A853.svg?logo=Springboot&logoColor=white">
@@ -35,14 +35,14 @@ Hola, soy Daniel Rodriguez!
     <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20-blue.svg?logo=tailwindcss&logoColor=white">
 </p>
 
-### 🗄️ Bases de datos
+### Bases de datos
 
 <p>
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL%20-%23327FC7.svg?logo=mysql&logoColor=white">
     <img alt="SQL Server" src ="https://img.shields.io/badge/SQL%20Server-%2314354C.svg?logo=sql&logoColor=white">
 </p>
 
-### 💻 Herramientas
+### Herramientas
 
 <p>
     <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white">
