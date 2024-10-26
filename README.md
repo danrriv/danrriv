@@ -42,7 +42,7 @@ Hola, soy Daniel Rodriguez!
     <img alt="SQL Server" src ="https://img.shields.io/badge/SQL%20Server-%2314354C.svg?logo=sql&logoColor=white">
 </p>
 
-### 💻 Software y Herramientas
+### 💻 Herramientas
 
 <p>
     <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white">
