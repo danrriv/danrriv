@@ -5,7 +5,7 @@ Hola, soy Daniel Rodriguez!
 <br/>
 <pre>
 💻 Soy desarrollador web fullstack, en constante aprendizaje 🧐
-📚 Soy graduado en Desarrollo de Sistemas de Información en IDAT
+📚 Soy graduado en Desarrollo de Sistemas de Información
 🌱 Actualmente estoy aprendiendo Astro 🚀 y Express
 🌟 Mis lenguajes principales son: Java y TypeScript
 🚩 Tengo especial interés en el desarrollo backend y creación de APIs RestFul
@@ -40,7 +40,7 @@ Hola, soy Daniel Rodriguez!
 <p>
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL%20-%23327FC7.svg?logo=mysql&logoColor=white">
     <img alt="SQL Server" src ="https://img.shields.io/badge/SQL%20Server-%2314354C.svg?logo=sql&logoColor=white">
-    <img alt="SQL Server" src ="https://img.shields.io/badge/postgresql-%2314354C.svg?logo=sql&logoColor=white">
+    <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-%2314354C.svg?logo=postgresql-&logoColor=white">
 </p>
 
 ### Herramientas
