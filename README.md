@@ -4,8 +4,8 @@ Hola, soy Daniel Rodriguez!
 </h1>
 <br/>
 <pre>
-💻 Soy desarrollador web fullstack
-📚 Soy graduado en Desarrollo de Sistemas de Información
+💻 Desarrollador Web Fullstack
+📚 Graduado en Desarrollo de Sistemas de Información
 🌱 Actualmente estoy aprendiendo Astro 🚀 y Express
 🌟 Mis lenguajes principales son: Java y TypeScript
 🚩 Tengo especial interés en el desarrollo backend y creación de APIs RestFul
