@@ -6,7 +6,7 @@ Hola, soy Daniel Rodriguez!
 <pre>
 💻 Desarrollador Web Fullstack
 📚 Graduado en Desarrollo de Sistemas de Información
-🌱 Actualmente estoy aprendiendo Astro 🚀 y Express
+🌱 Actualmente estoy aprendiendo Nextjs
 🌟 Mis lenguajes principales son: Java y TypeScript
 🚩 Tengo especial interés en el desarrollo backend y creación de APIs RestFul
   <!--
@@ -33,7 +33,6 @@ Hola, soy Daniel Rodriguez!
     <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate%20-%23150458.svg?logo=hibernate&logoColor=white">
     <img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23D00000.svg?logo=Angular&logoColor=white">
         <img alt="Astro" src="https://img.shields.io/badge/Astro%20-%23800080.svg?logo=Astro&logoColor=white">
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white">
     <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20-blue.svg?logo=tailwindcss&logoColor=white">
 </p>
 
