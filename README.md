@@ -63,7 +63,7 @@ and taking ideas all the way from development to production.
 <p><strong>Databases & Tools</strong></p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,jenkins,postman" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,nginx,git,jenkins,postman" alt="Tools"/>
 </p>
 
 <h3>03 / What interests me</h3>
