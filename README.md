@@ -75,13 +75,12 @@ and taking ideas all the way from development to production.
 [05] Understanding how things work under the hood
 </pre>
 
+<!--
 <h3>04 / Selected projects</h3>
-
 <p>
 A selection of projects, experiments, and things I've built.
 </p>
-
-<!-- Add your featured repositories here -->
+  -->
 
 <hr>
 
