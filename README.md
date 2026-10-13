@@ -1,53 +1,90 @@
-<h1 align="center">
-Hola, soy Daniel Rodriguez!
-		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-</h1>
-<br/>
+
+<div align="center">
+
 <pre>
-💻 Desarrollador Web Fullstack
-📚 Graduado en Desarrollo de Sistemas de Información
-🌱 Actualmente estoy aprendiendo Nextjs
-🌟 Mis lenguajes principales son: Java y TypeScript
-🚩 Tengo especial interés en el desarrollo backend y creación de APIs RestFul
-  <!--
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
-  --->
+██████╗  █████╗ ███╗   ██╗██████╗ ██████╗ ██╗██╗   ██╗
+██╔══██╗██╔══██╗████╗  ██║██╔══██╗██╔══██╗██║██║   ██║
+██║  ██║███████║██╔██╗ ██║██████╔╝██████╔╝██║██║   ██║
+██║  ██║██╔══██║██║╚██╗██║██╔══██╗██╔══██╗██║╚██╗ ██╔╝
+██████╔╝██║  ██║██║ ╚████║██║  ██║██║  ██║██║ ╚████╔╝
+╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
 </pre>
+
+<h3>Daniel Rodriguez</h3>
+
+<p>
+  Full-stack Developer · Backend-oriented
+</p>
+
+<p>
+  <a href="https://github.com/danrriv">GitHub</a>
+  ·
+  <a href="https://www.linkedin.com/in/daniel-rodriguez-rivera/">LinkedIn</a>
+  ·
+  <a href="https://danrriv.dev">Portfolio</a>
+</p>
+
+</div>
+
 <hr>
 
-## 🛠️ Mis conocimientos
-
-### Lenguajes de programación
+<h3>01 / About me</h3>
 
 <p>
-    <img alt="Java" src="https://img.shields.io/badge/Java%20-red.svg?logo=java&logoColor=red">
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%2314354C.svg?logo=typeScript&logoColor=blue">
-        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=yellow">
-
-### Frameworks y Bibliotecas
-
-<p>
-    <img alt="Spring" src="https://img.shields.io/badge/Spring%20Boot%20-%2334A853.svg?logo=Springboot&logoColor=white">
-        <img alt="Spring Security" src="https://img.shields.io/badge/Spring%20Security%20-%2334A853.svg?logo=springsecurity&logoColor=white">
-    <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate%20-%23150458.svg?logo=hibernate&logoColor=white">
-    <img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23D00000.svg?logo=Angular&logoColor=white">
-        <img alt="Astro" src="https://img.shields.io/badge/Astro%20-%23800080.svg?logo=Astro&logoColor=white">
-    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20-blue.svg?logo=tailwindcss&logoColor=white">
+I'm a software developer focused on building reliable
+web applications and backend systems.
 </p>
 
-### Bases de datos
-
 <p>
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL%20-%23327FC7.svg?logo=mysql&logoColor=white">
-    <img alt="SQL Server" src ="https://img.shields.io/badge/SQL%20Server-%2314354C.svg?logo=sql&logoColor=white">
-    <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-%2314354C.svg?logo=postgresql&logoColor=white">
+I enjoy designing APIs, understanding software architecture,
+and taking ideas all the way from development to production.
 </p>
 
-### Herramientas
+<pre>
+> location    : Peru
+> main_stack  : Java / Spring Boot / Angular
+> exploring   : Rust / Software Architecture
+</pre>
+
+<h3>02 / Tech stack</h3>
+
+<p><strong>Languages</strong></p>
 
 <p>
-    <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white">
-    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=java,ts,js,python" alt="Languages"/>
 </p>
-</br>
+
+<p><strong>Frameworks & Libraries</strong></p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,angular,nextjs,astro,tailwind" alt="Frameworks"/>
+</p>
+
+<p><strong>Databases & Tools</strong></p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,jenkins,postman" alt="Tools"/>
+</p>
+
+<h3>03 / What interests me</h3>
+
+
+<pre>
+[03] Exploring Rust, Go & systems programming
+[04] Experimenting with new technologies & dev tools
+[05] Understanding how things work under the hood
+</pre>
+
+<h3>04 / Selected projects</h3>
+
+<p>
+A selection of projects, experiments, and things I've built.
+</p>
+
+<!-- Add your featured repositories here -->
+
+<hr>
+
+<div align="center">
+  <sub>:)</sub>
+</div>
